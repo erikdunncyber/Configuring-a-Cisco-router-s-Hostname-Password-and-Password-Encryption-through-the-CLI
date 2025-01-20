@@ -1,4 +1,4 @@
-<h1>Packet Tracer - Configuring a Cisco router's Hostname, Password, and Password Encryption through the CLI</h1>
+<h1>Packet Tracer - Configuring a Cisco Router's Hostname, Password, and Password Encryption through the CLI</h1>
 
 <p align="center">
 I created a simple LAN with 3 PCs connected to a switch, connected to a router: <br/>
