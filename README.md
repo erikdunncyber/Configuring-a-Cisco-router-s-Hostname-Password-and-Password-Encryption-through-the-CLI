@@ -21,11 +21,17 @@ To ensure that current and future passwords are encrypted I'll enter Global Conf
 <img src="https://i.imgur.com/TM7KQul.png" height="80%" width="80%">
 <br /> 
 <br />
-To verify that password encryption was enabled, I'll exit global cofiguration mode to go back to Privileged Exec mode and check the running configuration. Password encryption has been set successfully:  <br/>
+To verify that password encryption was enabled, I'll exit global cofiguration mode to go back to Privileged Exec mode and check the running configuration. It appears that password encryption has been set successfully:  <br/>
 <img src="https://i.imgur.com/icsZtiX.png" height="80%" width="80%"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%"/>
+The current encryption used for passwords isn't very secure, so I'll create a new password that is encrypted using the MD-5 hashing algorithm. To do this I'll enter "enable secret Networks" through global configuration mode. The new, more secure password, "Networks", should now be configured and the old, unsecure password "CCNA" should now be disabled:  <br/>
+<img src="https://i.imgur.com/zs3jQv0.png" height="80%" width="80%"/>
+<br />
+<br />
+The current encryption used for passwords isn't very secure, so I'll create a new password that is encrypted using the MD-5 hashing algorithm. To do this I'll enter "enable secret Networks" through global configuration mode. The new, more secure password, "Networks", should now be configured and the old, unsecure password "CCNA" should now be disabled:  <br/>
+<img src="https://i.imgur.com/zs3jQv0.png" height="80%" width="80%"/>
+
+  
 </p>
 
