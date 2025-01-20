@@ -31,7 +31,10 @@ The current encryption used for passwords isn't very secure, so I'll create a ne
 <br />
 I'll verify if the new password was set by accessing the running configuration. It appears to be configured correctly:  <br/>
 <img src="https://i.imgur.com/vxhZ7YJ.png" height="80%" width="80%"/>
-
+<br />
+<br />
+Now I'll save the running configuration to the startup configuration. There are three different commands I can enter to do this, "write", "write memory", and "copy running-config startup-config".:  <br/>
+<img src="https://i.imgur.com/CpvhN3D.png" height="80%" width="80%"/>
   
 </p>
 
