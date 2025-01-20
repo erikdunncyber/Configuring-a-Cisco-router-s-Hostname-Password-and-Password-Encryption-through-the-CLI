@@ -13,7 +13,7 @@ To add a password I'll enter "enable password CCNA". Now the password to access 
 <img src="https://i.imgur.com/t3qsniP.png" height="80%" width="80%"/>
 <br />
 <br />
-To verify if the password was set correctly, I'll access the running configuration of this router. To do this I'll enter "show running-config" into the CLI. The running configuration shows that the password was set to CCNA:  <br/>
+To verify if the password was set correctly, I'll access the running configuration of this router. To do this I'll exit Global Configuration mode by entering "exit" and enter "show running-config" to view the current running configuration. The running configuration shows that the password was set to CCNA:  <br/>
 <img src="https://i.imgur.com/NFBTD8U.png" height="80%" width="80%"/>
 <br />
 <br />
@@ -21,8 +21,8 @@ To ensure that current and future passwords are encrypted I'll enter Global Conf
 <img src="https://i.imgur.com/TM7KQul.png" height="80%" width="80%">
 <br /> 
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%"/>
+To verify that password encryption was enabled, I'll exit global cofiguration mode to go back to Privileged Exec mode and check the running configuration. Password encryption has been set successfully:  <br/>
+<img src="https://i.imgur.com/icsZtiX.png" height="80%" width="80%"/>
 <br />
 <br />
 Observe the wiped disk:  <br/>
