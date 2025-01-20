@@ -1,12 +1,12 @@
-<h1>Packet Tracer - Configuring Device Hostnames, Passwords, and Password Encryption on Cisco CLI</h1>
+<h1>Packet Tracer - Configuring a Router's Hostname, Password, and Password Encryption through Cisco CLI</h1>
 
 <p align="center">
 I created a simple LAN with 3 PCs connected to a switch, connected to a router: <br/>
-<img src="https://i.imgur.com/qiDAbcX.png"/>
+<img src="https://i.imgur.com/qiDAbcX.png" height="80%" width="80%"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+I accessed the CLI of the router and entered Privleged Exec mode by entering "enable". Through Privleged Exec mode I enter Global Configuration mode by entering "configure terminal". To change the router's hostname I enter the command "hostname MyRouter". Now the router's hostname is MyRouter: <br/>
+<img src="https://i.imgur.com/WneCOsk.png" height="80%" width="80%" />
 <br />
 <br />
 Enter the number of passes: <br/>
