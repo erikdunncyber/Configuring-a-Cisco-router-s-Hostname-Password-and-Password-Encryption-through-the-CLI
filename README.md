@@ -29,8 +29,8 @@ The current encryption used for passwords isn't very secure, so I'll create a ne
 <img src="https://i.imgur.com/zs3jQv0.png" height="80%" width="80%"/>
 <br />
 <br />
-The current encryption used for passwords isn't very secure, so I'll create a new password that is encrypted using the MD-5 hashing algorithm. To do this I'll enter "enable secret Networks" through global configuration mode. The new, more secure password, "Networks", should now be configured and the old, unsecure password "CCNA" should now be disabled:  <br/>
-<img src="https://i.imgur.com/zs3jQv0.png" height="80%" width="80%"/>
+I'll verify if the new password was set by accessing the running configuration. It appears to be configured correctly:  <br/>
+<img src="https://i.imgur.com/vxhZ7YJ.png" height="80%" width="80%"/>
 
   
 </p>
