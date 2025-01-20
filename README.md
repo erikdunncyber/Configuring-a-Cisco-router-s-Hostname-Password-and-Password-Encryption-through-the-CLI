@@ -13,8 +13,8 @@ To add a password I'll enter "enable password CCNA". Now the password to access 
 <img src="https://i.imgur.com/t3qsniP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+To verify if the password was set correctly, I'll access the running configuration of this router. To do this I'll enter "show running-config" into the CLI. The running configuration shows that the password was set to CCNA:  <br/>
+<img src="https://i.imgur.com/NFBTD8U.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Wait for process to complete (may take some time):  <br/>
@@ -29,12 +29,3 @@ Observe the wiped disk:  <br/>
 <img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
