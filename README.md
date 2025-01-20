@@ -1,4 +1,4 @@
-<h1>Packet Tracer - Configuring a Router's Hostname, Password, and Password Encryption through Cisco CLI</h1>
+<h1>Packet Tracer - Configuring a Cisco router's Hostname, Password, and Password Encryption through the CLI</h1>
 
 <p align="center">
 I created a simple LAN with 3 PCs connected to a switch, connected to a router: <br/>
@@ -9,8 +9,8 @@ I accessed the CLI of the router and entered Privleged Exec mode by entering "en
 <img src="https://i.imgur.com/WneCOsk.png" height="80%" width="80%" />
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+To add a password I'll enter "enable password CCNA". Now the password to access Privleged Exec mode on this router is CCNA: <br/>
+<img src="https://i.imgur.com/t3qsniP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Confirm your selection:  <br/>
