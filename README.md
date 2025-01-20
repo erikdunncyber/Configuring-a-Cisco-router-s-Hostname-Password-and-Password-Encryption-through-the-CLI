@@ -1,8 +1,8 @@
 <h1>Packet Tracer - Configuring Device Hostnames, Passwords, and Password Encryption on Cisco CLI</h1>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://imgur.com/qiDAbcX" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+I created a simple LAN with 3 PCs connected to a switch, connected to a router: <br/>
+<img src="https://i.imgur.com/qiDAbcX.png"/>
 <br />
 <br />
 Select the disk:  <br/>
