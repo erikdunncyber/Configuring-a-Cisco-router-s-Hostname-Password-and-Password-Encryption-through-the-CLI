@@ -37,7 +37,7 @@ Now I'll save the running configuration to the startup configuration. There are 
 <img src="https://i.imgur.com/CpvhN3D.png" height="80%" width="80%"/>
 <br />
 <br />
-Again, I'll verify if the running configuration has saved to the startup configuration. I'll enter "show startup-config" and it appears that the running configuration has been transfered over correctly judging by how the new md5 hashed password shows:  <br/>
+Again, I'll verify if the running configuration has saved to the startup configuration. I'll enter "show startup-config" and it appears that the running configuration has been transfered over correctly judging by how the new MD-5 hashed password shows:  <br/>
 <img src="https://i.imgur.com/KFRg4yb.png" height="80%" width="80%"/>
   
 </p>
