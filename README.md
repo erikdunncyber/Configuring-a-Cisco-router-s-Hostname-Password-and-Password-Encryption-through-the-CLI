@@ -1,7 +1,5 @@
 <h1>Packet Tracer - Configuring Device Hostnames, Passwords, and Password Encryption on Cisco CLI</h1>
 
-<h2>Program walk-through:</h2>
-
 <p align="center">
 Launch the utility: <br/>
 <img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
